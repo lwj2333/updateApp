@@ -6,6 +6,7 @@ package com.lwj.updateApp
  * @describe 添加描述
  */
 /**
+ * @param isUpadate 是否更新
  * @param version 版本号
  * @param constraint 是否强制更新 0 否  1  是
  * @param updateUrl app更新下载链接

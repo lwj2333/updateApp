@@ -8,7 +8,7 @@ package com.lwj.updateApp
 /**
  * @param url  检查更新链接
  * @param  version  当前app的版本号
- * @param verify  校验信息
+ * @param key  校验信息
  */
-open class AppInfo (var url:String,var version:String,var verify:String)
+open class AppInfo (var url:String,var version:String,var key:String?)
 
